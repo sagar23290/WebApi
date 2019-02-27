@@ -1,0 +1,9 @@
+F:\Test\WebApplication2\BAL\bin\Debug\BAL.dll
+F:\Test\WebApplication2\BAL\bin\Debug\BAL.pdb
+F:\Test\WebApplication2\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+F:\Test\WebApplication2\BAL\obj\Debug\BAL.dll
+F:\Test\WebApplication2\BAL\obj\Debug\BAL.pdb
+F:\Test\WebApplication2\BAL\bin\Debug\DAL.dll
+F:\Test\WebApplication2\BAL\bin\Debug\Model.dll
+F:\Test\WebApplication2\BAL\bin\Debug\DAL.pdb
+F:\Test\WebApplication2\BAL\bin\Debug\Model.pdb
