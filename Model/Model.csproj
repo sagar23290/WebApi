@@ -41,6 +41,7 @@
   <ItemGroup>
     <Compile Include="APIResponse.cs" />
     <Compile Include="Customer\CustomerDetailVO.cs" />
+    <Compile Include="Login\LoginVO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

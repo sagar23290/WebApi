@@ -7,3 +7,5 @@ F:\Test\WebApplication2\BAL\bin\Debug\DAL.dll
 F:\Test\WebApplication2\BAL\bin\Debug\Model.dll
 F:\Test\WebApplication2\BAL\bin\Debug\DAL.pdb
 F:\Test\WebApplication2\BAL\bin\Debug\Model.pdb
+F:\Test\WebApplication2\BAL\bin\Debug\Utility.dll
+F:\Test\WebApplication2\BAL\bin\Debug\Utility.pdb
